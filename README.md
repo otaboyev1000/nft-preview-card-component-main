@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [nft-preview-card-component-main](https://github.com/Attrams/nft-preview-card-component-main)
-- Live Site URL: [nft-preview-card-component](https://app.netlify.com/sites/starlit-boba-32fa3e/overview)
+- Live Site URL: [nft-preview-card-component](https://starlit-boba-32fa3e.netlify.app/)
 
 
 ### Built with
