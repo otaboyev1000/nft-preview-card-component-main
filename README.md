@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [nft-preview-card-component-main](https://github.com/Attrams/nft-preview-card-component-main)
+- Live Site URL: [nft-preview-card-component](https://app.netlify.com/sites/starlit-boba-32fa3e/overview)
 
 
 ### Built with
